@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunk_tripfinder_hotel_cra=self.webpackChunk_tripfinder_hotel_cra||[]).push([[792],{31439:function(a,t,e){e.r(t);e(30969);var o=e(70191),n=e(95946),r=e(40631),l=e(22939),i=e(37574);t.default=function(){var a=(0,r.Z)("/data/agent.json"),t=a.data,e=a.loadMoreData,d=a.loading,u=t[0]&&t[0].favourite_post?t[0].favourite_post:[];return(0,i.jsx)(o.Z,{link:l.JL,data:u,loading:d,limit:6,totalItem:u.length,columnWidth:[1,.5,1/3,1/4,.2,1/6],placeholder:(0,i.jsx)(n.xB,{}),handleLoadMore:e})}}}]);
-//# sourceMappingURL=792.3a7c5a2c.chunk.js.map
